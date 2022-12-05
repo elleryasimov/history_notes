@@ -94,9 +94,9 @@ Brown 的主要著作
 
 1 - 4 章：交代背景
 
-5 - 17 章 人物志：昆图斯·奥勒留·西马库斯、米兰的安布罗斯、奥古斯丁、波尔多的奥索尼乌斯、诺拉的保利努斯、哲罗姆、皮尼亚努斯和小美兰尼亚
+5 - 17 章 人物志：[昆图斯·奥勒留·西马库斯](https://en.wikipedia.org/wiki/Quintus_Aurelius_Symmachus)、[米兰的安布罗斯](https://en.wikipedia.org/wiki/Ambrose)、[奥古斯丁](https://en.wikipedia.org/wiki/Augustine_of_Hippo)、[波尔多的奥索尼乌斯](https://en.wikipedia.org/wiki/Ausonius)、[诺拉的保利努斯](https://en.wikipedia.org/wiki/Paulinus_of_Nola)、[哲罗姆](https://en.wikipedia.org/wiki/Jerome)、皮尼亚努斯和小美兰尼亚
 
-17 - 24 章 奥古斯丁 vs 伯拉纠
+17 - 24 章 奥古斯丁 vs [伯拉纠](https://en.wikipedia.org/wiki/Pelagius)
 
 25 - 27 章 帝国的最后时光
 
