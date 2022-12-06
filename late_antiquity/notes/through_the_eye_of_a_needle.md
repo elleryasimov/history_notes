@@ -169,6 +169,12 @@ Brown 的主要著作
 
 ### 新的“黄金”时代
 
+四世纪：金币崇拜
+
+[索里达](https://en.wikipedia.org/wiki/Solidus_(coin))
+
+![君士坦丁索里达](https://en.wikipedia.org/wiki/File:CONSTANTINUS_I_RIC_VII_48-651049.jpg)
+
 
 
 
