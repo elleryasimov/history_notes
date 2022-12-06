@@ -173,7 +173,9 @@ Brown 的主要著作
 
 [索里达](https://en.wikipedia.org/wiki/Solidus_(coin))
 
-![君士坦丁索里达](https://en.wikipedia.org/wiki/File:CONSTANTINUS_I_RIC_VII_48-651049.jpg)
+![君士坦丁索里达](https://upload.wikimedia.org/wikipedia/commons/4/4e/CONSTANTINUS_I_RIC_VII_48-651049.jpg)
+
+
 
 
 
