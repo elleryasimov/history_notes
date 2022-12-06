@@ -19,7 +19,7 @@ Personal notes for history books.
 
 [link](./late_antiquity)
 
-*穿过针眼：财富、西罗马帝国的衰亡和基督教会的形成，350~550年 Through the Eye of a Needle: Wealth, the Fall of Rome & the Making of Christianity in the West, 350-550 AD* [note](./late_antiquity/through_the_eye_of_a_needle.md)
+*穿过针眼：财富、西罗马帝国的衰亡和基督教会的形成，350~550年 Through the Eye of a Needle: Wealth, the Fall of Rome & the Making of Christianity in the West, 350-550 AD* [note](./late_antiquity/notes/through_the_eye_of_a_needle.md)
 
 ### History of the United States
 
