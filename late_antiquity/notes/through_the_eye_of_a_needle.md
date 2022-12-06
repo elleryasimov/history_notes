@@ -94,7 +94,7 @@ Brown 的主要著作
 
 1 - 4 章：交代背景
 
-5 - 17 章 人物志：[昆图斯·奥勒留·西马库斯](https://en.wikipedia.org/wiki/Quintus_Aurelius_Symmachus)、[米兰的安布罗斯](https://en.wikipedia.org/wiki/Ambrose)、[奥古斯丁](https://en.wikipedia.org/wiki/Augustine_of_Hippo)、[波尔多的奥索尼乌斯](https://en.wikipedia.org/wiki/Ausonius)、[诺拉的保利努斯](https://en.wikipedia.org/wiki/Paulinus_of_Nola)、[哲罗姆](https://en.wikipedia.org/wiki/Jerome)、皮尼亚努斯和小美兰尼亚
+5 - 17 章 人物志：[昆图斯·奥勒留·西马库斯](https://en.wikipedia.org/wiki/Quintus_Aurelius_Symmachus)、[米兰的安布罗斯](https://en.wikipedia.org/wiki/Ambrose)、[奥古斯丁](https://en.wikipedia.org/wiki/Augustine_of_Hippo)、[波尔多的奥索尼乌斯](https://en.wikipedia.org/wiki/Ausonius)、[诺拉的保利努斯](https://en.wikipedia.org/wiki/Paulinus_of_Nola)、[哲罗姆](https://en.wikipedia.org/wiki/Jerome)、皮尼亚努斯和[小梅兰尼亚](https://en.wikipedia.org/wiki/Melania_the_Younger)
 
 17 - 24 章 奥古斯丁 vs [伯拉纠](https://en.wikipedia.org/wiki/Pelagius)
 
@@ -177,7 +177,42 @@ Brown 的主要著作
 
 
 
+自上而下的金币崇拜
 
+* 皇帝：通过金币赏赐官员与军队
+
+* 官僚系统：坚持尽量用金币收税
+
+* > 那些能够搞到金币的人，比那些财富只能由贬值的铜币或自己土地上未售产品构成的人处于更高的社会阶层
+
+* 低层公务员：用金币收费，获得薪水
+* 市政议员：尽可能向纳税人征收金币，或将征收的粮食换成黄金
+* 元老们有数量惊人的黄金，巨额的收入
+
+### 行省中的有钱人
+
+本小节论述了 Brown 对罗斯托夫采夫观点的异议：
+
+1. 小地产而非大地产，才是晚期罗马乡村最显著的特征
+2. 几乎没有证据表明，农业劳动者越来越贫困匮乏
+3. 罗马农民并非农奴，强制依附制度不常见
+4. 地主“乡村化”并不显著
+
+### 新“黄金时代”的精英
+
+庞大的中间阶层：行省地主
+
+罗马西部地区上层阶级大洗牌：君士坦丁与其继任者向行省中的市议会精英（小地主）与帝国官僚示好；元老院贵族的地位受到巨大挑战
+
+新阶级：（元老院头衔）“名士”（vir clarissimus）
+
+新人开始进入帝国核心
+
+皇帝和宫廷开始决定社会阶层结构：帝国特权、索里达、帝国服务
+
+旧贵族的“贫穷化”：失去地位和权力
+
+![](../pictures/picture_1.jpg)
 
 
 
