@@ -123,8 +123,58 @@ Personal notes for history books.
 
 [link](./19th_century)
 
+*[TODO]世界的演变：19世纪史 Die Verwandlung der Welt: eine Geschichte des 19. Jahrhunderts* [note](./19th_century/notes/die_verwandlung_der_welt.md)
 
+*[TODO]金与铁：俾斯麦、布莱希罗德与德意志帝国的建立 Gold and Iron* [note](./19th_century/notes/gold_and_iron.md)
+
+*[TODO]黄金时代：英国与现代世界的诞生 Heyday:Britain and the Birth of the Modern World* [note](./19th_century/notes/heyday_britain_and_the_birth_of_the_modern_world.md)
+
+*[TODO]利奥波德国王的鬼魂：贪婪、恐惧、英雄主义与比利时的非洲殖民地 King Leopold's Ghost: A Story of Greed, Terror, and Heroism in Colonial Africa* [note](./19th_century/notes/king_leopolds_ghost.md)
+
+*[TODO]法国大革命史 La Révolution française* [note](./19th_century/notes/la_revolution_francaise.md)
+
+*[TODO]梅特涅：帝国与世界 Metternich. Stragtege und Visionär. Eine Biografie* [note](./19th_century/notes/metternich_stragtege_und_visionar_eine_biografie.md)
+
+*[TODO]拿破仑大帝 Napoleon the Great* [note](./19th_century/notes/napoleon_the_great.md)
+
+*[TODO]王的归程：阿富汗战记，1839-1842 Return of a King: The Battle for Afghanistan,1839-42* [note](./19th_century/notes/return_of_a_king_the_battle_of_afghanistan.md)
+
+*[TODO]资本的年代：1848-1875 The Age of Capital: 1848-1875* [note](./19th_century/notes/the_age_of_capital_1848_1875.md)
+
+*[TODO]帝国的年代：1875-1914 The Age of Empire: 1875-1914* [note](./19th_century/notes/the_age_of_empire_1875_1914.md)
+
+*[TODO]革命的年代：1789-1848 The Age of Revolution：1789-1848* [note](./19th_century/notes/the_age_of_revolution_1789_1848.md)
+
+*[TODO]普法战争：1870-1871年德国对法国的征服 The Franco-Prussian War: the German conquest of France* [note](./19th_century/notes/the_franco_prussian_war_the_german_conquest_of_france.md)
+
+*[TODO]大博弈：英俄帝国中亚争霸战 The Great Game: On Secret Service in High Asia* [note](./19th_century/notes/the_great_game_on_secret_service_in_high_asia.md)
+
+*[TODO]工业革命（1760-1830）The Industrial Revolution, 1760-1830* [note](./19th_century/notes/the_industrial_revolution_1760_1830.md)
+
+*[TODO]牛津法国大革命史 The Oxford History of The French Revolution* [note](./19th_century/notes/the_oxford_history_of_the_french_revolution.md)
+
+*[TODO]骄傲之塔：战前世界的肖像，1890-1914 The Proud Tower: A Portrait of the World Before the War, 1890-1914* [note](./19th_century/notes/the_proud_tower_a_portrait_of_the_world_before_the_war_1890_1914.md)
+
+*[TODO]竞逐权力，1815-1914 The Pursuit of Power, Europe 1815-1914* [note](./19th_century/notes/the_pursuit_power_europe_1815_1914.md)
+
+*[TODO]1848：革命之年 1848: Year of Revolution* [note](./19th_century/notes/1848_year_of_revolution.md)
 
 ### Misc History
 
 [link](./misc_history)
+
+*[TODO]黑色的旗，蓝色的海：美洲海盗史 Black Flags, Blue Waters: The Epic History of America's Most Notorious Pirates* [note](./misc_history/notes/black_flags_blue_waters_the_epic_history_of_americas_most_notorious_pirates.md)
+
+*[TODO]铁路改变世界 Blood,Iron,and Gold:How the Railways Transformed the World* [note](./misc_history/notes/blood_iron_and_gold_how_the_railways_transformed_the_world.md)
+
+*[TODO]辉煌信标：美国灯塔史 Brilliant Beacons: A History of the American Lighthouse* [note](./misc_history/notes/brilliant_beacons_a_history_of_the_american_lighthouse.md)
+
+*[TODO]皮毛、财富和帝国：美国皮毛贸易的史诗 Fur, Fortune, and Empire: The Epic History of the Fur Trade in America* [note](./misc_history/notes/fur_fortune_and_empire_the_epic_history_of_the_fur_trade_in_america.md)
+
+*[TODO]西方旅游史：16-21世纪 HISTOIRE GÉNÉRALE DU TOURISME du XVIe au XXIe siècle* [note](./misc_history/notes/histoire_generale_du_tourisme.md)
+
+*[TODO]利维坦：美国捕鲸史 Leviathan: The History of Whaling in America* [note](./misc_history/notes/leviathan_the_history_of_whaling_in_america.md)
+
+*[TODO]菜园简史 The Jardin Potager* [note](./misc_history/notes/the_jardin_potager.md)
+
+*[TODO]欧亚皇家狩猎史 The Royal Hunt in Eurasian History* [note](./misc_history/notes/the_royal_hunt_in_eurasian_history.md)
