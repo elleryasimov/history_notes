@@ -89,6 +89,10 @@ Personal notes for history books.
 
 *[TODO]阿尔比恩的种子：美国文化的源与流 Albion's Seed: Four British Folkways in America* [note](./us_history/notes/albions_seed_four_british_folkways_in_america.md)
 
+*[TODO]美利坚帝国：一部全球史 American Empire: A Global History* [note](./us_history/notes/american_empire.md)
+
+*[TODO]美国史 American History: A Survey* [note](./us_history/notes/american_history.md)
+
 *[TODO]美国的尤利西斯：尤利西斯·S.格兰特的故事 American Ulysses: A Life of Ulysses S. Grant* [note](./us_history/notes/american_ulysses_a_life_of_ulysses_s_grant.md)
 
 *[TODO]美国优先和美国梦，1900—2017 Behold, America: The Entangled History of "America First" and "the American Dream"* [note](/Users/kaijiechen/Learning/history_notes/us_history/notes/behold_america_the_entangled_history_of_america_first_and_the_american_dream.md)
@@ -127,7 +131,7 @@ Personal notes for history books.
 
 *[TODO]金与铁：俾斯麦、布莱希罗德与德意志帝国的建立 Gold and Iron* [note](./19th_century/notes/gold_and_iron.md)
 
-*[TODO]黄金时代：英国与现代世界的诞生 Heyday:Britain and the Birth of the Modern World* [note](./19th_century/notes/heyday_britain_and_the_birth_of_the_modern_world.md)
+*[IN PROGRESS]黄金时代：英国与现代世界的诞生 Heyday:Britain and the Birth of the Modern World* [note](./19th_century/notes/heyday_britain_and_the_birth_of_the_modern_world.md)
 
 *[TODO]利奥波德国王的鬼魂：贪婪、恐惧、英雄主义与比利时的非洲殖民地 King Leopold's Ghost: A Story of Greed, Terror, and Heroism in Colonial Africa* [note](./19th_century/notes/king_leopolds_ghost.md)
 
