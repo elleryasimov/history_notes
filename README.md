@@ -183,4 +183,4 @@ Personal notes for history books.
 
 *[TODO]欧亚皇家狩猎史 The Royal Hunt in Eurasian History* [note](./misc_history/notes/the_royal_hunt_in_eurasian_history.md)
 
-*[TODO]无墙之城：美国历史上的城市与自然* [note](./misc_history/notes/the_walless_city.md)
+*[IN PROGRESS]无墙之城：美国历史上的城市与自然* [note](./misc_history/notes/the_walless_city.md)
