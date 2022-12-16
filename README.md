@@ -135,6 +135,8 @@ Personal notes for history books.
 
 *[TODO]利奥波德国王的鬼魂：贪婪、恐惧、英雄主义与比利时的非洲殖民地 King Leopold's Ghost: A Story of Greed, Terror, and Heroism in Colonial Africa* [note](./19th_century/notes/king_leopolds_ghost.md)
 
+*[TODO]自由与毁灭：法国大革命，1789 - 1799 Liberty or Death: The French Revolution* [note](./19th_century/notes/liberty_or_death.md)
+
 *[TODO]法国大革命史 La Révolution française* [note](./19th_century/notes/la_revolution_francaise.md)
 
 *[TODO]梅特涅：帝国与世界 Metternich. Stragtege und Visionär. Eine Biografie* [note](./19th_century/notes/metternich_stragtege_und_visionar_eine_biografie.md)
