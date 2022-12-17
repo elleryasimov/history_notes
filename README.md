@@ -186,3 +186,9 @@ Personal notes for history books.
 *[TODO]欧亚皇家狩猎史 The Royal Hunt in Eurasian History* [note](./misc_history/notes/the_royal_hunt_in_eurasian_history.md)
 
 *[IN PROGRESS]无墙之城：美国历史上的城市与自然* [note](./misc_history/notes/the_walless_city.md)
+
+### History of Shanghai
+
+[link](./shanghai_history)
+
+*[TODO]霓虹灯外：20世纪初日常生活中的上海 Beyond the Neon Lights: Everyday Shanghai in the Early Twentieth Century* [note](./shanghai_history/notes/beyond_the_neon_lights.md)
