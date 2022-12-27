@@ -77,7 +77,7 @@ Personal notes for history books.
 
 *[TODO]西部罗马的转型 The Transformation of the Roman West* [note](./late_antiquity/notes/the_transformation_of_the_roman_west.md)
 
-*[IN PROGRESS]古代晚期的权力与劝诫* [note](./late_antiquity/notes/power_and_persuasion_in_late_antiquity.md)
+*[IN PROGRESS]古代晚期的权力与劝诫 Power and Persuasion in Late Antiquity* [note](./late_antiquity/notes/power_and_persuasion_in_late_antiquity.md)
 
 ### History of the United States
 
