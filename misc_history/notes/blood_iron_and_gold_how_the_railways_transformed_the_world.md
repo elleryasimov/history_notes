@@ -166,3 +166,118 @@
 
 * 第一条铁路使用人力
 * 铁路建设困难重重，发展缓慢：不同州轨距不同
+
+## Chapter 4    美国之路
+
+**没有铁路，美国就不成其为美国。**
+
+railroads （美）
+
+railway （英）
+
+规模更大：
+
+* 线路长度更长
+* 火车更大，运力更强
+
+美国铁路更接近英国，没有集中规划，强调竞争而非协调
+
+车厢内部开敞布置，没有卧铺包间
+
+早期坐美国的火车非常受罪：
+
+* 车厢狭窄闷热
+* 机车的浓烟和火星
+* 夜间行车危险（照明相当重要）
+
+可以租用车厢
+
+北方铁路远比南方舒适
+
+食物都无法保证卫生
+
+一旦登上火车，乘客并不能保证到达目的地。火车无法遵守固定的时刻表
+
+危险：
+
+* 车厢脱离出轨 [Franklin Pierce](https://en.wikipedia.org/wiki/Franklin_Pierce#Transition_and_train_crash)
+* 正面相撞（[Cornfield meets](https://en.wiktionary.org/wiki/cornfield_meet)），早期信号系统几乎没有。电报发明前调度员极易犯错
+* 缺乏错车环道，列车有时候需要倒车
+
+**欧洲的铁路通常是已经建立的村镇的服务者，而美国的铁路却是它们的创建者**
+
+铁路在广袤的大陆上传播发展和“文明”
+
+运河[^1]与铁路的争斗
+
+政府的参与：
+
+* 国有企业进行铁路计划
+* 对私人建铁路提供补贴
+* 铁路可能获得垄断权、免税权、彩票经营权、“**国家征用土地权**”（强制购买）等特许权
+
+美国铁路的特点
+
+* 一般会选择工程量最小的线路，避免隧道和挖掘
+* 桥梁事故比欧洲频繁
+* 机车的大小和功率大
+
+* 单位造价相对较低
+* 球形烟囱：减少火星
+* 排障器：对付轨道上的牛群等障碍
+
+**电报的出现**，为铁路的更广泛使用起到了最关键的作用。
+
+铁路与电报的共生：
+
+* 电报线路沿铁路而建
+* 铁路免费使用电报，彼此沟通，极大降低了事故率
+
+因铁路产生的新旅游路线：查理斯顿—汉堡（[Charleston & Hamburg Railroad](https://www.asce.org/about-civil-engineering/history-and-heritage/historic-landmarks/charleston-hamburg-railroad)）
+
+当地居民渴望铁路网
+
+早期的铁路主要由小人物投资，像终点城市里的生意人和商人、沿途居住的农夫和零售商等，他们都希望通过土地增值和生意扩大获得好处。
+
+**查尔斯顿——汉堡线**
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/SouthCarolinaRR_RoadMap1833.jpg/1920px-SouthCarolinaRR_RoadMap1833.jpg)
+
+* 当时世界最长的铁路（136英里）
+* Charleston 的棉花商人需要出河口
+
+**波士顿—洛厄尔铁路**
+
+[Boston and Lowel Railroad](https://en.wikipedia.org/wiki/Boston_and_Lowell_Railroad)
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/1855_Boston_and_Lowell_Railroad_map.jpg/440px-1855_Boston_and_Lowell_Railroad_map.jpg)
+
+* 为纺织业提供服务[^2]
+
+**波士顿—普罗维登斯铁路**
+
+* 连接马萨诸塞和罗德岛
+
+**西部铁路**
+
+* Worcester——Albany
+
+推动早期铁路线建设的，常常是来自运输煤炭和其他矿产的需要。
+
+铁路的修建让美国人能吃到来自远方的新鲜食品
+
+在美国修建铁路花费远低于欧洲
+
+早期美国铁路多集中在新英格兰和濒临大西洋的中部各州。Pennsylvania 占了总里程的 1/4
+
+轨距不同，但后来标准轨距开始占主导
+
+同一座城市中线路不互通：
+
+* 铁路公司之间缺乏协调和规划
+* 存在既得利益者（当地的转运公司等）
+
+
+
+[^1]:参考[《大河与大国》](../../us_history/notes/the_source_how_rivers_made_america_and_america_remade_its_rivers.md)
+[^2]: 波士顿当时纺织业繁盛，见[《无墙之城》](the_walless_city.md)
