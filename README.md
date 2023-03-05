@@ -125,6 +125,24 @@ Personal notes for history books.
 
 *[TODO]猎巫：塞勒姆1692 The Witches: Salem, 1692* [note](./us_history/notes/the_witches_salem_1692.md)
 
+### World History of the 16th Century
+
+[link](./16th_century)
+
+*[TODO]基督教欧洲的巨变：1517 - 1648 Christendom Destroyed: Europe 1517 - 1648* [note](./16th_century/notes/christendom_destroyed.md)
+
+*[TODO]四君主：亨利八世、弗朗索瓦一世、查理五世、苏莱曼大帝 Four Princes: Henry VIII, Francis I, Charles V, Suleiman the Magnificent and the Obsessions that Forged Modern Europe* [note](./notes/four_princes.md)
+
+*[TODO]海洋帝国：地中海大决战 Empires of the Sea: The Siege of Malta, the Battle of Lepanto, and the Contest for the Center of the World* [note](./16th_century/notes/empires_of_the_sea.md)
+
+*[TODO]皇帝：查理五世传 Emperor: A New Life of Charles V* [note](./16th_century/notes/emperor.md)
+
+*[TODO]腓力二世传 Imprudent King: A New Life of Philip II* [note](./16th_century/notes/imprudent_king.md)
+
+*[TODO]英格兰史2·都铎王朝 Tudors* [note](./16th_century/tudors.md)
+
+
+
 ### World History of the 19th Century
 
 [link](./19th_century)
