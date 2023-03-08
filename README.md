@@ -79,6 +79,14 @@ Personal notes for history books.
 
 *[IN PROGRESS]古代晚期的权力与劝诫 Power and Persuasion in Late Antiquity* [note](./late_antiquity/notes/power_and_persuasion_in_late_antiquity.md)
 
+### History of the Middle Ages
+
+[link](./middle_ages)
+
+*[IN PROGRESS]追寻千禧年：中世纪的革命千禧年主义者和神秘的无政府主义者 The Pursuit of the Millennium: Revolutionary Millenarians and Mystical Anarchists of the Middle Ages* [note](./middle_ages/notes/the_pursuit_of_the_millenium.md)
+
+*[TODO]中世纪盛期的欧洲 Europe in the High Middle Ages* [note](./middle_ages/notes/europe_in_the_high_middle_ages.md)
+
 ### History of the United States
 
 [link](./us_history)
