@@ -35,7 +35,7 @@ Personal notes for history books.
 
 *[TODO]以罗马之名：缔造罗马伟业的将军们  In the Name of Rome: the Men who Won the Roman Empire* [note](./rome_at_peak/notes/in_the_name_of_rome_the_men_who_won_the_roman_empire.md)
 
-*[TODO]罗马和平：古代地中海世界的暴力、征服与和平 Pax Romana: War, Peace and Conquest in the Roman World* [note](./rome_at_peak/notes/pax_romana_war_peace_and_conquest_in_the_roman_world.md)
+* [through_the_eye_of_a_needle.md](late_antiquity/notes/through_the_eye_of_a_needle.md) [TODO]罗马和平：古代地中海世界的暴力、征服与和平 Pax Romana: War, Peace and Conquest in the Roman World* [note](./rome_at_peak/notes/pax_romana_war_peace_and_conquest_in_the_roman_world.md)
 
 *[TODO]罗马元老院与人民：一部古罗马史 SPQR: A History of Ancient Rome* [note](./rome_at_peak/notes/spqr_a_roman_history.md)
 
@@ -53,7 +53,9 @@ Personal notes for history books.
 
 [link](./late_antiquity)
 
-*[IN PROGRESS]穿过针眼：财富、西罗马帝国的衰亡和基督教会的形成，350~550年 Through the Eye of a Needle: Wealth, the Fall of Rome & the Making of Christianity in the West, 350-550 AD* [note](./late_antiquity/notes/through_the_eye_of_a_needle.md)
+*[DONE]穿过针眼：财富、西罗马帝国的衰亡和基督教会的形成，350~550年 Through the Eye of a Needle: Wealth, the Fall of Rome & the Making of Christianity in the West, 350-550 AD* [note](./late_antiquity/notes/through_the_eye_of_a_needle.md)
+
+*[IN PROGRESS]古代晚期的世界 The World of Late Antiquity* [note](./late_antiquity/notes/the_world_of_late_antiquity.md)
 
 *[TODO]墨洛温王朝：创建与变革 Before France and Germany: The Creation and Transformation of the Merovingian World* [note](./late_antiquity/notes/before_france_and_germany_the_creation_and_transformation_of_the_merovingian_world.md)
 
