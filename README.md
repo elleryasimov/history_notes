@@ -222,3 +222,10 @@ Personal notes for history books.
 [link](./shanghai_history)
 
 *[TODO]霓虹灯外：20世纪初日常生活中的上海 Beyond the Neon Lights: Everyday Shanghai in the Early Twentieth Century* [note](./shanghai_history/notes/beyond_the_neon_lights.md)
+
+*[IN PROGRESS]八十八师与一·二八淞沪抗战* [note](shanghai_history/notes/jan_28_incident.md)
+
+### Modern China
+
+[link](./modern_china)
+
